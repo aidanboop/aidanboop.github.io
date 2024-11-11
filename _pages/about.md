@@ -2,7 +2,11 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='https://longdogechallenge.com/'>what am i thinking about currently</a>. Data Science Student at MTU. Every thought we think is creating our future.
+subtitle: <a href='https://longdogechallenge.com/'>my brain 24/7</a>. 
+
+  Data Science Student at MTU. 
+
+"Every thought we think is creating our future."
 
 profile:
   align: right
@@ -17,7 +21,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Aidan Boop. I'm currently a student at Michigan Technological University pursuing a Bachelors in Data Science. 
+  Hi! My name is Aidan Boop.
+I'm currently a student at Michigan Technological University pursuing a Bachelors in Data Science. 
 This is a final project for my DATA1201 Course. 
 A fun fact about me: I have a tattoo of my favorite anime character [Toji Fushiguro](https://jujutsu-kaisen.fandom.com/wiki/Toji_Fushiguro), which isn't something you come across often...
 
