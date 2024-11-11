@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='https://longdogechallenge.com/'>my brain 24/7</a>. 
+subtitle: <a href='https://longdogechallenge.com/'>my brain</a>. 
 
   Data Science Student at MTU. 
 
