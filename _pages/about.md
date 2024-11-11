@@ -4,9 +4,9 @@ title: home
 permalink: /
 subtitle: <a href='https://longdogechallenge.com/'>my brain</a>. 
 
-  Data Science Student at MTU. 
-
-"Every thought we think is creating our future."
+  **Data Science Student at MTU.**
+  
+*"Every thought we think is creating our future."*
 
 profile:
   align: right
