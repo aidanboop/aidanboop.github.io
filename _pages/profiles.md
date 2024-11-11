@@ -4,7 +4,7 @@ permalink: /people/
 title: people
 description: cool people
 nav: true
-nav_order: 5
+nav_order: 3
 
 profiles:
   - align: right
