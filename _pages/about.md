@@ -17,7 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Aidan Boop. I'm currently a student at Michigan Technological University pursuing a Bachelors in Data Science. This is a final project for my DATA1201 Course. A fun fact about me: I have a tattoo of my favorite anime character [Toji Fushiguro](http://reddit.com), which isn't something you come across often...
+Hi! My name is Aidan Boop. I'm currently a student at Michigan Technological University pursuing a Bachelors in Data Science. 
+This is a final project for my DATA1201 Course. 
+A fun fact about me: I have a tattoo of my favorite anime character [Toji Fushiguro](https://jujutsu-kaisen.fandom.com/wiki/Toji_Fushiguro), which isn't something you come across often...
 
 
 
@@ -30,6 +32,6 @@ Hi! My name is Aidan Boop. I'm currently a student at Michigan Technological Uni
 
 
 
-Saved for later use!
+<!-- Saved for later use!
 Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below.
+This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below.-->
