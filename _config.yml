@@ -8,7 +8,7 @@ middle_name: M.
 last_name: Boop
 email: amboop@mtu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Aidan's super-cool awesome life. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Aidan's super-cool awesome life.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -134,7 +134,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: headspacve # blog_name will be displayed in your blog page
+blog_name: headspace # blog_name will be displayed in your blog page
 blog_description: aidans super-cool and awesome thoughts.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -144,7 +144,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -182,7 +182,7 @@ external_sources:
 # -----------------------------------------------------------------------------
 
 newsletter:
-  enabled: true
+  enabled: false
   endpoint: # your loops endpoint (e.g., https://app.loops.so/api/newsletter-form/YOUR-ENDPOINT)
   # https://loops.so/docs/forms/custom-form
 
@@ -201,9 +201,9 @@ collections:
     permalink: /:collection/:title/
 
 announcements:
-  enabled: false
+  enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 1 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
