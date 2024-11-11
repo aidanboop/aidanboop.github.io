@@ -64,7 +64,7 @@
       "date": "2023-02-28",
       "awarder": "Jake Bronson",
       "url": "https://www.sousawinners.com/",
-      "summary": "The John Philip Sousa Award is dedicated to those with astounding musicianship and leadership. Those who recieve it are acknowledged for those qualities."
+      "summary": "The John Philip Sousa Award is dedicated to those with astounding musicianship and leadership. Those who receive it are acknowledged for those qualities."
     }
   ],
   "languages": [
@@ -72,7 +72,8 @@
       "language": "English",
       "fluency": "Native speaker",
       "icon": ""
-    },
+    }
+  ],
   "interests": [
     {
       "name": "Bodybuilding",
