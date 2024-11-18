@@ -31,8 +31,8 @@ A fun fact about me: I have a tattoo of my favorite anime character [Toji Fushig
 <div>
     <h3 style="font-family: 'Courier New', Courier, monospace;">Languages I have coded in so far...</h3>
     <p>
-        <i class="fa-brands fa-java" style="font-size: 2rem; margin-right: 10px;"></i>
-        <i class="fa-solid fa-code" style="font-size: 2rem;"></i>
+        <i class="fa-brands fa-java"></i>
+        <i class="fa-solid fa-code"></i>
     </p>
 </div>
 
