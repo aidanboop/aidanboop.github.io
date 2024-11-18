@@ -28,13 +28,21 @@ A fun fact about me: I have a tattoo of my favorite anime character [Toji Fushig
 
 ---
 
+<style>
+    .icon-size {
+        font-size: 48px;
+    }
+</style>
+
 <div>
     <h3 style="font-family: 'Courier New', Courier, monospace;">Languages I have coded in so far...</h3>
     <p>
-        <i class="fa-brands fa-java"></i>
-        <i class="fa-solid fa-code"></i>
+        <i class="fa-brands fa-java icon-size"></i>
+        <i class="fa-solid fa-code icon-size"></i>
     </p>
 </div>
+
+
 
 
 
