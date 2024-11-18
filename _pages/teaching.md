@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses.
+title: teachings
+description: some stuff that I've learned at MTU.
 nav: true
 nav_order: 4
 ---
