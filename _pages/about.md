@@ -40,6 +40,7 @@ A fun fact about me: I have a tattoo of my favorite anime character [Toji Fushig
         <i class="fa-brands fa-java icon-size"></i>
         <i class="fa-solid fa-code icon-size"></i>
         <i class="fa-brands fa-markdown icon-size"></i>
+        <i class="fa-solid fa-terminal"></i>
     </p>
 </div>
 
