@@ -22,8 +22,23 @@ social: true # includes social icons at the bottom of the page
 Hi! My name is Aidan Boop.
 
 I'm currently a student at Michigan Technological University pursuing a Bachelors in Data Science. 
-  This is a final project for my DATA1201 Course. 
+This is a final project for my DATA1201 Course. 
+
 A fun fact about me: I have a tattoo of my favorite anime character [Toji Fushiguro](https://jujutsu-kaisen.fandom.com/wiki/Toji_Fushiguro), which isn't something you come across often...
+
+---
+
+<div>
+    <h3 style="font-family: 'Courier New', Courier, monospace;">Languages I have coded in so far...</h3>
+    <p>
+        <i class="fa-brands fa-java" style="font-size: 2rem; margin-right: 10px;"></i>
+        <i class="fa-solid fa-code" style="font-size: 2rem;"></i>
+    </p>
+</div>
+
+
+
+
 
 
 
