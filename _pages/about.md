@@ -30,7 +30,7 @@ A fun fact about me: I have a tattoo of my favorite anime character [Toji Fushig
 
 <style>
     .icon-size {
-        font-size: 48px;
+        font-size: 60px;
     }
 </style>
 
