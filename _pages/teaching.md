@@ -13,7 +13,7 @@ nav_order: 3
 > - Sorting Algorithms
 > - HeapPQ
 >
-> *Implementation of `insert()` in `BinarySearchTree`:*
+> <p align="center"><b>Implementation of insert() in BinarySearchTree:</b></p>
 >
 > ```java
 > private V insert(Position<Entry<K, V>> node, K key, V value) {
