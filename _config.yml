@@ -74,13 +74,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 discord_id: booplol # your discord id (18-digit unique numerical identifier)
 github_username: aidanboop # your GitHub user name
-inspirehep_id: 1010907 # Inspire HEP author ID
-instagram_id: boop.fr # your instagram id
 linkedin_username: aidanboop # your LinkedIn user name
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
-spotify_id: slushydog15 # your spotify id
 x_username: TWCEvent_ # your X handle
-youtube_id: Rekt_DJ # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: Rekt_DJ 
 
 contact_note: >
   Reach out to me @ slushydog15@gmail.com OR (231)-675-8848.
