@@ -58,6 +58,7 @@ nav_order: 3
 > - Shell
 >
 > #### DATA1201 - 14 Weeks of Learning...
+
 | Week   | Lab Topic           | Project     |
 |:-------|:-------------------:|------------:|
 | Week 1 | Starting Linux      | -           |
@@ -74,9 +75,8 @@ nav_order: 3
 | Week 12| Process Manipulating| tmux        |
 | Week 13| Regular Expression  | regex101    |
 | Week 14| Finals Week         | thatsmyname!|
->
-> **Example**
-> *Cleaned .csv file for species:*
+
+**Example** *Cleaned .csv file for species:*
 > ```csv
 > recordID,species,scientificName,gbif_JSON,gbif_family,EOL-ID,genus,species
 > (scientific),mo,dy,yr,period,plot,note1,stake,locality,coordinates,county,state,country,sex
