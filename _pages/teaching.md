@@ -76,7 +76,7 @@ nav_order: 3
 >| Week 13| Regular Expression  | regex101    |
 >| Week 14| Finals Week         | thatsmyname!|
 > 
-> **Example** *Cleaned .csv file for species:*
+> <p align="center"><b>Example Cleaned .csv file for species:</b></p>
 > 
 > ```csv
 > recordID,species,scientificName,gbif_JSON,gbif_family,EOL-ID,genus,species
