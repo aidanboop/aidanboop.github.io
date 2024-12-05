@@ -6,7 +6,7 @@ subtitle: "<a href='https://longdogechallenge.com/'>my brain</a>."
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
     <p>1701 Townsend Dr</p>
     <p>Houghton, MI 49720</p>
