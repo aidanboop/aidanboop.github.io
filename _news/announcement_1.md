@@ -1,12 +1,12 @@
 ---
 layout: post
-title: BREAKING NEWS!!!
+title: Welcome to my portfolio website!
 date: 2024-11-07 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Very big breaking news!! See below!
+This is an explanation for Who, What, Where, and Why I made this website for seemingly no reason.
 
 ---
 
