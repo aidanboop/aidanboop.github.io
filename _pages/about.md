@@ -61,6 +61,3 @@ A fun fact about me: I have a tattoo of my favorite anime character [Toji Fushig
 
 
 
-<!-- Saved for later use!
-Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below.-->
