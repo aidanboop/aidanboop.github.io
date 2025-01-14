@@ -148,9 +148,11 @@ latest_posts:
 markdown: kramdown
 highlighter: rouge
 kramdown:
-@@ -178,76 +156,32 @@ kramdown:
-      line_numbers: false
-      start_line: 1
+  input: GFM
+  syntax_highlighter_opts:
+    line_numbers: false
+    start_line: 1
+
 
 # Includes & excludes
 include: ["_pages"]
