@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: "<a href='https://longdogechallenge.com/'>a throwback to 2014.</a>."
+subtitle: "<a href='https://longdogechallenge.com/'>a throwback to 2014.</a>"
 profile:
   align: right
   image: prof_pic.jpg
