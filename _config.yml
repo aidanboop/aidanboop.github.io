@@ -74,8 +74,8 @@ contact_note: >
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: headspace
-blog_description: aidans super-cool and awesome thoughts.
+blog_name: aidans headspace
+blog_description: super-cool and awesome thoughts.
 permalink: /blog/:year/:title/
 lsi: false
 pagination:
