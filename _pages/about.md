@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: ""Every thought we think is creating our future. - Louise Hay""
+subtitle: "Every thought we think is creating our future. - Louise Hay"
 profile:
   align: right
   image: prof_pic.jpg
