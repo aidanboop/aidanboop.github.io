@@ -21,6 +21,7 @@ This website is the culmination of all my work at MTU.
 A fun fact about me: I have a tattoo of my favorite anime character [Toji Fushiguro](https://jujutsu-kaisen.fandom.com/wiki/Toji_Fushiguro), which isn't something you come across often...
 
 <a href='https://github.com/aidanboop'>Check out my Github!</a>
+<div style="margin-bottom: 4em;"></div>
 
 <div>
     <h3 style="font-family: 'Courier New', Courier, monospace;">Languages I have coded in so far...</h3>
